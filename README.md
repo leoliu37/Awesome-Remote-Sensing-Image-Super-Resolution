@@ -33,7 +33,7 @@ Please feel free to send me pull requests or email (dcliu.xidian@gmail.com) to u
 ### 2019
 1. [TGARS19] Super-Resolution of Single Remote Sensing Image Based on Residual Dense Backprojection Networks. [[Paper](https://ieeexplore.ieee.org/document/8732688)]
 
-2. [RemoteSens19] Improving Remote Sensing Image Super-Resolution Mapping Based on the Spatial Attraction Model by Utilizing the Pansharpening Technique. [[Paper]]
+
 
 
 
@@ -41,6 +41,9 @@ Please feel free to send me pull requests or email (dcliu.xidian@gmail.com) to u
 
 ## Traditional Methods for Remote Sensing Images
 ***
+### 2019
+2. [RemoteSens19] Improving Remote Sensing Image Super-Resolution Mapping Based on the Spatial Attraction Model by Utilizing the Pansharpening Technique. [[Paper]]
+
 
 ### 2018
 1. [TGARS18] Adaptive Super-Resolution for Remote Sensing Images Based on Sparse Representation With Global Joint Dictionary Model. [[Paper](https://ieeexplore.ieee.org/document/8197387)]
